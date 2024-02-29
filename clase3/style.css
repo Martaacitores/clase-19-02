@@ -1,0 +1,76 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.columna {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cuadro {
+  color: #fff;
+  text-align: center;
+  line-height: 100px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.cuadro1 {
+  border: 5px solid #3498db;
+  width: 100px;
+  height: 100px;
+}
+
+.cuadro2 {
+  border: 5px solid #2ecc71;
+  width: 120px;
+  height: 120px;
+}
+
+.cuadro3 {
+  border: 5px solid #f1c40f;
+  width: 80px;
+  height: 80px;
+}
+
+.cuadro4 {
+  border: 5px solid #e74c3c;
+  width: 150px;
+  height: 150px;
+}
+
+.cuadro5 {
+  border: 5px solid #9b59b6;
+  width: 90px;
+  height: 90px;
+}
+
+.cuadro6 {
+  border: 5px solid #1abc9c;
+  width: 110px;
+  height: 110px;
+}
+
+.cuadro7 {
+  border: 5px solid #34495e;
+  width: 130px;
+  height: 130px;
+}
+
+.cuadro8 {
+  border: 5px solid #e67e22;
+  width: 70px;
+  height: 70px;
+}
+
+.cuadro9 {
+  border: 5px solid #95a5a6;
+  width: 140px;
+  height: 140px;
+}
